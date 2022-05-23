@@ -1,0 +1,23 @@
+{
+  "name": "price-comparison",
+  "version": "1.0.0",
+  "description": "Displays, compares and checks availability of products in popular market pages.",
+  "main": "index.js",
+  "scripts": {
+    "search": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsapiens/price-comparison.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsapiens/price-comparison/issues"
+  },
+  "homepage": "https://github.com/vsapiens/price-comparison#readme",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  }
+}
